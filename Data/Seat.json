@@ -1,0 +1,9 @@
+[
+    {
+        "id": "integer",
+        "bookingId": "integer",
+        "seatNumber": 120,
+        "hallId": "integer",
+        "dateTime": "Date"
+    }
+]

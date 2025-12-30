@@ -1,0 +1,18 @@
+[
+    {
+        "id" : "h1hall",
+        "name" : "Inox Agra",
+        "location" : "agra",
+        "studio" : "A",
+        "maxSeat" : 120,
+        "movieName" : "xyz"
+    },
+    {
+        "id" : "h2hall",
+        "name" : "Inox Agra Phase 2",
+        "location" : "Agra",
+        "studio" : "B",
+        "maxSeat" : 120,
+        "movieName" : "xyz"
+    }
+]
