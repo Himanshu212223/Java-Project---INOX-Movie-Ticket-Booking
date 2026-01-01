@@ -6,7 +6,6 @@ package org.controller;
 import org.Service.UserService;
 
 import java.io.IOException;
-import java.time.LocalDate;
 import java.util.Scanner;
 
 public class App {
@@ -18,7 +17,6 @@ public class App {
     public static void main(String [] args) throws IOException{
         main();
     }
-
 
 
 
